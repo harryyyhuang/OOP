@@ -1,0 +1,7 @@
+Item
+5
+    Pen 10001
+    table 10002
+	shoe 10020
+	hand 20012
+	light 20014
